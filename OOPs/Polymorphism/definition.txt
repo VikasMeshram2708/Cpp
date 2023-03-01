@@ -1,0 +1,14 @@
+The word “polymorphism” means having many forms. In simple words, we can define polymorphism as the ability of a message to be displayed in more than one form.
+
+There are 2 types of polymorphism
+1. Compilie Time Polymorphism :  It can be achieved by function overloading or operator overloading.
+
+	a. Function Overloading : A Function that has been using multiple times with same name but different
+	paramaters are said to function overloading.
+	
+	b. Operator overloading : C++ has the ability to provide the operators with a special meaning for a data type, this ability is known as operator overloading.
+	e.c int , float, double, long , long long, long long double;
+	
+2. Run Time Polymorphism : It can be achieved by function overriding or operator overriding late binding and dynamic polymorphism are it's other name.
+
+	a. Function Overiding : Functin overridding occurs when a derived class has a definition of one of the member functions of the base class. The base function is said to be overridden.
