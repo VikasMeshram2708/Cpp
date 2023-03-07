@@ -3,7 +3,7 @@ using namespace std;
 
 const int N = 0;
 
-#define debug(x) cout << #x << " " << x << "\n";
+#define debug(x) cout << #x << " " << x << "\n"
 #define nline "\n"
 #define ll long long
 #define pb push_back
